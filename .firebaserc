@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "skylex2-dev-chris-ios",
+    "prod": "skylex2-production"
+  }
+}
